@@ -1,0 +1,3 @@
+Deploy a static website such as About me or portfolio page using Amazon S3 and CloudFront.
+Upload the HTML file to an S3 bucket, enable static website hosting, and configure the bucket for public access by adding the appropriate bucket policy.
+Setup a cloudfront distribution that uses the S3 bucket as its origin to securely deliver my content.
